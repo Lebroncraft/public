@@ -13,7 +13,6 @@ public class Main extends JavaPlugin
 	@Override
 	public void onEnable()
 	{
-		getCommand("blood").setExecutor(new BloodCommandExec(this));
 		getServer().getPluginManager().registerEvents(new PlayerListener(this), this);
 		
 		getLogger().info("version " + version + " has been enabled.");
