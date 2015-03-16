@@ -1,0 +1,8 @@
+name: LebronBlood
+main: com.aw46.LebronBlood.Main
+author: aFreshKiwi
+version: 1.0.5
+commands:
+   blood:
+      description: Main plugin command
+      usage: /blood
