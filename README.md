@@ -1,8 +1,8 @@
 # public
 Everything from Lebroncraft that's publicly available, hosts our public issue-tracker.
 ---
-Check if your issue has been described in another issue, before creating one. If we find duplicate issues, we will close them.
-If the issue relates to a large error, please copy the error to http://pastebin.com and link the pastebin in your issue!
+**Check if your issue has been described in another issue, before creating a new one**. If we find duplicate issues, we will close them.
+If you have an error log along with your issue, please **do not paste the error into the comments**, instead please copy the error to [pastebin] (pastebin.com) and provide the link within the comments.
 
 Lebron Blood
 ---
